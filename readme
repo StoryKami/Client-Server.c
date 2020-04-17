@@ -1,0 +1,44 @@
+---------------------------------README---------------------------------
+This is the README file for assignment #1
+
+-Personal Information
+
+Name : ¿Ã¬˘»£
+Student ID : 20170517
+Assignment # : 1
+
+
+-References
+
+Basic code of server/client
+"Beej's guide to network programming"
+
+Description of strcmp()
+https://dojang.io/mod/page/view.php?id=346
+
+Description of isdigit()
+https://blockdmask.tistory.com/362
+
+Description of strcpy()
+https://dojang.io/mod/page/view.php?id=358
+
+About memory allocation
+https://dsnight.tistory.com/51
+
+Description of fgets()
+https://www.ibm.com/support/knowledgecenter/ko/ssw_ibm_i_73/rtref/fgets.htm
+
+The way to get long string in C/C++ language
+http://egloos.zum.com/hanjw8410/v/4056009
+
+Using shell mode on Emacs
+https://m.blog.naver.com/jodi999/220673646851
+
+
+-Additional Info
+I wrote the codes based on the Beej's server/client code.
+
+
+
+-Time spent coding
+About 12 hours (coding + Find Resources + Read assignment + See piazza etc.)
